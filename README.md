@@ -36,7 +36,7 @@ But in this case, since we did not log any metrics or parameters, this is just t
 ### Package Training in Conda Environment
 The following command replicates a conda environment specified in the project and runs the model training. It requires the MLProject file to exist.
 ```bash
-mlflow run mlflow-bentoml
+mlflow run . --experiment-name chatbot
 ```
 
 ### MLFlow Local Serving
@@ -58,6 +58,19 @@ mlflow models build-docker \
   -n my-docker-image \
   --enable-mlserver
 ```
+Once the image is built, we can interact with it by exposing its service endpoint (set to port 8080 in the container by default) locally:
+```bash
+docker run -p LOCAL_PORT:8080 --name ml-deploy-test my-docker-image
+```
+Now you may talk to the chat bot the same way as before:
+```bash
+curl -X POST -H "Content-Type:application/json; format=pandas-split" --data '{"columns":["text"], "data":[["How are you doing?"]]}' http://0.0.0.0:LOCAL_PORT/invocations
+```
+Once the container is running, we can also login into the container by:
+```bash
+docker exec -it CONTAINER_ID /bin/sh
+```
+And the model files are located in /opt/ml/model folder within the container.
 
 ## BentoML Example
 Instead of a `mlflow.pyfunc.PythonModel`, BentoML uses what's called a `Runnable`. And instead of defining the `predict` function, you can name a couple of functions.
