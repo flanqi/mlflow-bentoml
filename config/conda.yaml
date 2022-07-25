@@ -1,0 +1,15 @@
+name: ml-deploy
+channels:
+  - defaults
+dependencies:
+  - python=3.8.13
+  - pandas
+  - numpy
+  - scikit-learn
+  - pip
+  - pip:
+    - torch==1.11.0
+    - mlflow==1.26.1
+    - transformers==4.20.0
+    - tensorboardx
+

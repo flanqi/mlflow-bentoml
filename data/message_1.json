@@ -1,0 +1,640 @@
+{
+  "participants": [
+    {
+      "name": "Landia Lan"
+    },
+    {
+      "name": "Lanqi Fei"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733665096,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733661140,
+      "content": "\u00f0\u009f\u0098\u0098",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\u00f0\u009f\u0098\u0098",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733650277,
+      "content": "catch you up later",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "catch you up later",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733643528,
+      "content": "Oh bye",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Oh bye",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733641761,
+      "content": "got work to do",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "got work to do",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733637861,
+      "content": "gotta go",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "gotta go",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733633723,
+      "content": "especially when i am drunk",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "especially when i am drunk",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733616900,
+      "content": "ahhaha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "ahhaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733609004,
+      "content": "You r a great teacher",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "You r a great teacher",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733597892,
+      "content": "I believe you",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I believe you",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733582848,
+      "content": "I will try my best \u00f0\u009f\u0098\u0080",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I will try my best \u00f0\u009f\u0098\u0080",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733556434,
+      "content": "thanks",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "thanks",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733551183,
+      "content": "Proud of u",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Proud of u",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733546801,
+      "content": "That\u00e2\u0080\u0099s dope",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "That\u00e2\u0080\u0099s dope",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733538556,
+      "content": "Wow!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Wow!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733532961,
+      "content": "starting september",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "starting september",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733526715,
+      "content": "will be teaching in an uni soon",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "will be teaching in an uni soon",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733516537,
+      "content": "Nothing much, just teaching and researching",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Nothing much, just teaching and researching",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733499025,
+      "content": "What r u doin recently",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "What r u doin recently",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733489694,
+      "content": "of course, safety comes first",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "of course, safety comes first",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733478496,
+      "content": "not expensive though",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "not expensive though",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733465533,
+      "content": "Yeah cus it\u00e2\u0080\u0099s safer",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah cus it\u00e2\u0080\u0099s safer",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733455275,
+      "content": "enjoy your flight there",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "enjoy your flight there",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733448302,
+      "content": "that would be awesome",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "that would be awesome",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733438888,
+      "photos": [
+        {
+          "uri": "messages/inbox/landialan_io5vjbshqw/photos/115890538_283665952866807_9052400957888124302_n_283665926200143.jpg",
+          "creation_timestamp": 1595733438
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733431622,
+      "content": "Lol",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Lol",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733428818,
+      "content": "My first first class flight",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "My first first class flight",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733420355,
+      "content": "Bought first class flight",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Bought first class flight",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733399386,
+      "content": "666",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "666",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733385843,
+      "content": "In data analytics",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "In data analytics",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733375754,
+      "content": "for master?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "for master?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733375566,
+      "content": "Yeah",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733372233,
+      "content": "or master?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "or master?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733372124,
+      "content": "\u00f0\u009f\u0098\u008a",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "\u00f0\u009f\u0098\u008a",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733365895,
+      "content": "Good for you, sis!",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Good for you, sis!",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733349938,
+      "content": "Go to northwestern university",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Go to northwestern university",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733347135,
+      "content": "take care and stay away from the virus",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "take care and stay away from the virus",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733333211,
+      "content": "Gonna move to Chicago soon",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Gonna move to Chicago soon",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733325896,
+      "content": "States",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "States",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733320835,
+      "content": "Yeah",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Yeah",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733320383,
+      "content": "or China?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "or China?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733316434,
+      "content": "are you in the states?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "are you in the states?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733305022,
+      "content": "hahaha",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "hahaha",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733297645,
+      "content": "Saw u online so wanted to greet",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Saw u online so wanted to greet",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733271324,
+      "content": "not bad",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "not bad",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733256699,
+      "content": "and u?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "and u?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733248353,
+      "content": "good",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "good",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733241547,
+      "content": "how you doing?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "how you doing?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Landia Lan",
+      "timestamp_ms": 1595733235326,
+      "content": "hi",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "hi",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733225288,
+      "sticker": {
+        "uri": "messages/stickers_used/851575_126361970881933_2050936102_n_126361967548600.png"
+      },
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Lanqi Fei",
+      "timestamp_ms": 1595733201881,
+      "content": "hello landia",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "hello landia",
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "Landia Lan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/landialan_io5vjbshqw",
+  "magic_words": [
+    
+  ]
+}

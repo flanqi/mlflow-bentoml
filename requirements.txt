@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+tensorboardx
+torch==1.11.0
+transformers==4.20.0
+mlflow==1.26.1
+
+
+
